@@ -1,4 +1,5 @@
 'Xin chào, tôi là <Luu Quoc Hao>'.
+Conflict resolved on 08/10/2025
 
 Gioi thieu ca nhan:
 Toi ten la Luu Quoc Hao.
