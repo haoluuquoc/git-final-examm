@@ -1,4 +1,4 @@
-'Xin chào, tôi là <Họ Tên>'.
+'Xin chào, tôi là <Luu Quoc Hao>'.
 
 Gioi thieu ca nhan:
 Toi ten la Luu Quoc Hao.
