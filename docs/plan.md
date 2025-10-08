@@ -12,3 +12,6 @@ Ke hoach hoc tap trong 1 tuan:
 
 Ngay bat dau: 08/10/2025
 Ngay ket thuc: 15/10/2025
+Hoàn thành bài tập về Git stash.
+- Tìm hiểu cách sử dụng stash trong Git.
+- Thực hành áp dụng stash vào dự án thực tế.
