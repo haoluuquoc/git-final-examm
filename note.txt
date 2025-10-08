@@ -1,3 +1,5 @@
 - Git giup quan ly ma nguon hieu qua.
 - Git ho tro lam viec nhom tot hon.
 - Git giup theo doi lich su thay doi.
+- Git giup phat trien phan mem nhanh hon.
+- Git la cong cu khong the thieu cho lap trinh vien.
