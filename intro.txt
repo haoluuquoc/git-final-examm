@@ -1,4 +1,4 @@
-Gioi thieu ca nhan:
+'Hello, this is <Luu quoc hao>'.
 Toi ten la Luu Quoc Hao.
 Toi la sinh vien nam 4 nganh CNTT.
 Toi yeu thich lap trinh va cong nghe.
