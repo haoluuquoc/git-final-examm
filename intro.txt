@@ -13,3 +13,11 @@ Ky nang:
 - Lap trinh .
 - Giao tiep tot.
 - Giai quyet van de .
+
+
+Ke hoach hoc tap:
+- Hoan thanh cac khoa hoc ve Git va GitHub.
+- Hoc lap trinh nang cao voi Python.
+- Tham gia cac du an thuc te de tich luy kinh nghiem.
+- Cai thien ky nang giai quyet van de.
+- Dat muc tieu tro thanh lap trinh vien full-stack.
