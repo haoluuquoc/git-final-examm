@@ -1,0 +1,16 @@
+Gioi thieu ca nhan:
+Toi ten la Luu Quoc Hao.
+Toi la sinh vien nam 3 nganh CNTT.
+Toi yeu thich lap trinh va cong nghe.
+Toi mong muon tro thanh lap trinh vien gioi.
+Toi luon co gang hoc hoi va phat trien ban than.
+
+So thich:
+- Doc sach.
+- Choi the thao.
+- Nghe nhac.
+
+Ky nang:
+- Lap trinh Python.
+- Giao tiep tot.
+- Giai quyet van de.
