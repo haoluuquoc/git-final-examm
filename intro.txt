@@ -1,3 +1,5 @@
+'Xin chào, tôi là <Họ Tên>'.
+
 Gioi thieu ca nhan:
 Toi ten la Luu Quoc Hao.
 Toi la sinh vien nam 4 nganh CNTT.
