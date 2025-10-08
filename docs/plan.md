@@ -1,4 +1,4 @@
-Ke hoach hoc tap trong 1 tuan:
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/7a6a4f56-bd52-4e54-8ff3-b81e19e4a43c" />Ke hoach hoc tap trong 1 tuan:
 - Hoc Git va GitHub nang cao.
 - Tim hieu ve lap trinh Python.
 - Thuc hanh cac bai tap ve Git.
@@ -12,3 +12,5 @@ Ke hoach hoc tap trong 1 tuan:
 
 Ngay bat dau: 08/10/2025
 Ngay ket thuc: 15/10/2025
+- Tìm hiểu cách quản lý nhiều stash.
+- Thực hành áp dụng nhiều stash vào dự án.
