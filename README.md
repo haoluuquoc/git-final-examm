@@ -1,10 +1,10 @@
 # Git Final Exam
 
-H? tÍn: Luu Qu?c H‡o  
+Ho ten: Luu Quoc Hao  
 MSSV: 227020  
-Ng‡y l‡m b‡i: 08/10/2025  
+Ng√†y l√†m b√†i: 08/10/2025  
 
-## M?c tiÍu
-- Hi?u rı c·c kh·i ni?m co b?n c?a Git.
-- Th‡nh th?o c·c thao t·c Git co b?n nhu commit, push, pull.
-- ¡p d?ng Git v‡o c·c d? ·n th?c t?.
+## Muc ti√™u
+- Hieu ro c√°c kh√°i niem co ban cua Git.
+- Th√†nh thao c√°c thao t√°c Git co ban nhu commit, push, pull.
+- √Åp dung Git v√†o c√°c du √°n thuc tien.
