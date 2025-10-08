@@ -1,0 +1,6 @@
+Mo ta tinh nang moi:
+- Tinh nang tu dong luu file.
+- Tinh nang thong bao khi co thay doi.
+- Tinh nang tim kiem file nhanh.
+- Tinh nang dong bo du lieu.
+- Tinh nang bao mat cao.
